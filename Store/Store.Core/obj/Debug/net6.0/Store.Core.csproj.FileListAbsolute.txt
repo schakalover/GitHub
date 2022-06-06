@@ -1,0 +1,12 @@
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\bin\Debug\net6.0\Store.Core.dll
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.dll
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+D:\TFS_PLANPISO\PLANPISO_BANORTE_JCF\PlanPisoProveedor\PlanPiso_SERVICIOS\Store\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll

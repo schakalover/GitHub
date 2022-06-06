@@ -1,0 +1,24 @@
+<h1 id="tableLabel">Articles</h1>
+
+<p *ngIf="loading"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="!loading">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Address</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let article of articles">
+      <td>{{ article.id }}</td>
+      <td>{{ article.name }}</td>
+      <td>{{ article.description }}</td>
+      <td>{{ article.name }}</td>
+      <td>{{ article.price }}</td>
+      <td>{{ article.totalInShelf }}</td>
+      <td>{{ article.totalInVault }}</td>
+    </tr>
+  </tbody>
+</table>
